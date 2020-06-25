@@ -17,6 +17,7 @@
 2.2. Project license.  We recommend an [OSI-approved license](https://opensource.org/licenses), so if the license is not one on the list, explain why.
 2.3. Existing financial sponsorship
 2.4. Trademark status
+2.5. What is the Contributor License Agreement (CLA) or Developer Certificate of Origin (DCO) process for contributions? (All CCC projects are expected to have one.)
 
 ### Technical Information
 3.1. High level assessment of project synergy with existing projects under the CCC, including how the project compliments/overlaps with existing projects, and potential ways to harmonize over time. Responses may be included both inline and/or in accompanying documentation.
